@@ -1,0 +1,19 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana,sans-serif;
+
+}
+#abc{
+    color: blue;
+    font-size: 36px;
+
+}
+#bc.odd{
+    font-size: 24px;
+}
+
+#cd{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
